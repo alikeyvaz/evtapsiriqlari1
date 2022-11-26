@@ -50,3 +50,17 @@ for (int i = 0; i < arr.Length; i++)
 Console.WriteLine(enkicik);
 
 #endregion
+
+#region 5. Consoldan eded daxil edin ve hemin ededin nece mertebeli oldugunu tapin. 
+
+//int number = 0, count = 0;
+
+//number = Convert.ToInt32(Console.ReadLine());
+//while (number > 0)
+//{
+//    number = number / 10;
+//    count++;
+//}
+//Console.WriteLine("Number of digits is : " + count);
+//Console.ReadLine();
+#endregion
